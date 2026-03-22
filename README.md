@@ -1,59 +1,62 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<div align="center">
+  <h1>Olá, eu sou o Douglas Ferreira 🚀</h1>
+  <p><strong>Full-Stack Developer | AI & Automation Enthusiast</strong></p>
 </div>
 
-<img src="img/PlanoDFundo2.png" align-items="center" />
-<br><br>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Sobre Mim</h1></summary>
-</div>
-<p>
-   Olá, meu nome é Douglas e atualmente estudo na área de desenvolvimento de sistemas web no Senai. Estou comprometido com a busca por conhecimento e oportunidades intelectuais, acreditando no potencial da tecnologia para resolver problemas reais. Busco constantemente desafios
-   para expandir meus horizontes e buscando sempre a melhor maneira de transformar ideias em soluções práticas e inovadoras.
-
-  Tenho 22 anos e atualmente vivo no Espírito Santo, Brasil. Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no assunto. Já tenho algumas praticas com JavaScript, HTML, CSS e C#, mas ainda estou aprendendo como e o funcionamentos dessas tecnologias. Pretendo começar a compartilhar conteúdos sobre alguns projetos relacionado ao desenvolvimento web no LinkedIn. Acredito que isso me ajudará a desenvolver outras habilidades importantes, como comunicação, criatividade e criação de conteúdos mais avançados.
-</p>
-
+<img src="img/PlanoDFundo2.png" width="100%" />
 
 <br>
 
-<details>
-  <summary>🖥️ Quando não estou programando</summary>
-  </details>
-  <br>
-<p>
-  Eu gosto de ler e jogar, normalmente coisas de terror/ação/ficção, também assisto filmes/séries/animes de diversos gêneros, e as vezes pratico alguns esportes que são caminhada/corridas, basquete e skate.  Acredito que nossos interesses pessoais podem, de alguma forma, nos ajudar a desenvolver e solucionar projetos e problemas com mais facilidade.
-</p>
-<br>
+## ⚡ Sobre Mim
+Atualmente estudo **Desenvolvimento de Sistemas Web no SENAI** e sou apaixonado por transformar problemas de negócio em soluções digitais eficientes. Meu foco principal é a ponte entre o desenvolvimento **Full-Stack** e a **Automação com IA**, criando ferramentas que geram resultados reais e otimizam processos.
 
-## GitHub Stats
-![Alice GitHub stats](https://github-readme-stats.vercel.app/api?username=F0RT-DEV&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F0RT-DEV&show_icons=true&theme=gotham)](https://github.com/F0RT-DEV/github-readme-stats)
+- 📍 Baseado em Vitória, Espírito Santo.
+- 🛠️ Especializando em ecossistemas de alta performance (React + n8n + IA).
+- 📈 Focado em soluções de **Lead Scoring** e **Conversão Inteligente**.
 
-<br>
+---
 
-<!-- Portfolio -->
-## Projetos
+## 🚀 Projetos em Destaque
 
-- [MEU 1° PROJETO: Biblioteca Virtual](https://github.com/F0RT-DEV/bibliotecaDigital)
+### [Hub de Conversão Inteligente (AI SDR)](link-do-repo)
+**Pipeline de qualificação de leads** que utiliza React no frontend e n8n + OpenAI no motor de decisão. O sistema analisa a intenção de compra em tempo real e prioriza o atendimento comercial via webhooks.
+*Status: Finalizando integração de Webhooks.*
 
-<br>
+### [Biblioteca Virtual](https://github.com/F0RT-DEV/bibliotecaDigital)
+Sistema de gestão de acervo digital focado em organização de dados e experiência do usuário.
 
-## Habilidades
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Tecnologias & Ferramentas
+
+### **Frontend Core**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### **Backend, Automação & IA**
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=n-dot-js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<br>
+### **Design & Workflow**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-ferreira-borges-3649a425a/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:douglasfb262@gmail.com)
+---
+
+## 📊 Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=F0RT-DEV&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RT-DEV&layout=compact&theme=gotham" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Vamos Conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-f-borges/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasfb262@gmail.com)
