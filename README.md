@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Douglas Ferreira 🚀</h1>
-  <p><strong>Full-Stack Developer | AI & Automation Enthusiast</strong></p>
+  <p><strong>Full-Stack Developer | Automação & Integração de IA</strong></p>
 </div>
 
 <img src="img/PlanoDFundo2.png" width="100%" />
@@ -8,19 +8,19 @@
 <br>
 
 ## ⚡ Sobre Mim
-Atualmente estudo **Desenvolvimento de Sistemas Web no SENAI** e sou apaixonado por transformar problemas de negócio em soluções digitais eficientes. Meu foco principal é a ponte entre o desenvolvimento **Full-Stack** e a **Automação com IA**, criando ferramentas que geram resultados reais e otimizam processos.
+Curso **Ciência da Computação na FAESA** e sou formado em **Desenvolvimento Web Full Stack pelo SENAI Vitória/ES**. Meu foco é a ponte entre o desenvolvimento **Full-Stack** e a automação de processos com IA, criando soluções que unem software, dados e integração de sistemas.
 
 - 📍 Baseado em Vitória, Espírito Santo.
-- 🛠️ Especializando em ecossistemas de alta performance (React + n8n + IA).
-- 📈 Focado em soluções de **Lead Scoring** e **Conversão Inteligente**.
+- 🛠️ Especializando em ecossistemas de automação (React + n8n + APIs de IA).
+- 📡 Aprofundando conhecimentos em IIoT e sensoriamento inteligente industrial.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### [Hub de Conversão Inteligente (AI SDR)](link-do-repo)
-**Pipeline de qualificação de leads** que utiliza React no frontend e n8n + OpenAI no motor de decisão. O sistema analisa a intenção de compra em tempo real e prioriza o atendimento comercial via webhooks.
-*Status: Finalizando integração de Webhooks.*
+Concepção de pipeline de qualificação de leads, integrando React no frontend e n8n + OpenAI no motor de decisão. Arquitetura planejada com priorização de atendimento comercial via webhooks.
+*Status: Desenvolvimento pausado temporariamente (custo de infraestrutura); retomada prevista.*
 
 ### [Biblioteca Virtual](https://github.com/F0RT-DEV/bibliotecaDigital)
 Sistema de gestão de acervo digital focado em organização de dados e experiência do usuário.
@@ -36,10 +36,11 @@ Sistema de gestão de acervo digital focado em organização de dados e experiê
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Backend, Automação & IA**
+### **Backend, Automação & Dados**
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=n-dot-js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **Design & Workflow**
